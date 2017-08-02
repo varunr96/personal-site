@@ -45,11 +45,11 @@ hr.light {
 }
 a {
     transition: all .35s;
-    color: #09C7D0
+    color: #065484
 }
 a:focus,
 a:hover {
-    color: #08aed0
+    color: #00FFFF
 }
 p {
     font-size: 16px;
